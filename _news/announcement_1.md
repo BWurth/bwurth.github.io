@@ -14,7 +14,7 @@ This opportunity marks an exciting reunion with the University of Strathclyde, w
 
 > Joining the Inspire Accelerator is a full-circle moment for me. I have a deep personal connection to this institution, having been a PhD student and faculty member here. I am excited to build on that experience, coupled with fresh perspectives, and work with the team on taking Venturithm to the next level.
 
-Strathclyde Inspire supports entrepreneurship in all its forms across the university's ecosystem. For Strathclyde students, staff members, or alumni, there is support for: 
+Strathclyde Inspire supports entrepreneurship in all its forms across the university's ecosystem. For Strathclyde students, staff members, or alumni, there is support for:
 
 <ul>
     <li>exploring your entrepreneurial potential, </li>
