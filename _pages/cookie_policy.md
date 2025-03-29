@@ -7,19 +7,19 @@ nav: false
 nav_order: 6
 ---
 
-**1. Introduction**
+# 1. Introduction**
 
 This Cookie Policy explains how Bernd Wurth ("we," "I," or "my") uses cookies and similar technologies on https://berndwurth.com ("the Website"). This policy should be read alongside my Privacy Policy, which explains how I use personal information.
 
-**2. What Are Cookies?**
+## 2. What Are Cookies?**
 
 Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently and provide information to the website owners.
 
-**3. Types of Cookies Used**
+ ### 3. Types of Cookies Used**
 
 I use the following types of cookies on the Website:
 
-3.1 Essential Cookies
+#### 3.1 Essential Cookies
 
 These cookies are necessary for the Website to function properly and cannot be switched off in my systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences or logging in. You can set your browser to block or alert you about these cookies, but some parts of the Website may not function properly.
 
