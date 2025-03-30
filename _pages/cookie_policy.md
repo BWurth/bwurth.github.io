@@ -11,7 +11,7 @@ nav_order: 6
 
 This Cookie Policy explains how Bernd Wurth ("we," "I," or "my") uses cookies and similar technologies on [https://berndwurth.com](https://berndwurth.com) ("the Website"). This policy should be read alongside my Privacy Policy, which explains how I use personal information.
 
-#### **2. What Are Cookies?**
+##### **2. What Are Cookies?**
 
 Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently and provide information to the website owners.
 
