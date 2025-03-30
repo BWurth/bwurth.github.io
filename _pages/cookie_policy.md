@@ -37,7 +37,7 @@ The Website uses widgets and tools including:
 - Google Scholar widget: May use cookies to display academic publications and citations.
 - Altmetric widget: May use cookies to show where published research is mentioned.
 - Dimensions widget: May use cookies to display academic citations.
-- YouTube mmbeds: Sets cookies when you interact with embedded videos.
+- YouTube embeds: Sets cookies when you interact with embedded videos.
 - Social media widgets: Social media features may set cookies to enhance the experience.
 
 ##### **4. Managing Cookies**
@@ -62,4 +62,4 @@ I may update this Cookie Policy from time to time to reflect changes in technolo
 
 ##### **6. Contact Information**
 
-If you have any questions about my use of cookies, please contact me at: [bernd.wurth@glasgow.ac.uk](bernd.wurth@glasgow.ac.uk).
+If you have any questions about my use of cookies, please contact me at [bernd.wurth@glasgow.ac.uk](mailto:bernd.wurth@glasgow.ac.uk).
