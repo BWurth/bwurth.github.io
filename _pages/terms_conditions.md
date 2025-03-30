@@ -9,7 +9,7 @@ nav_order: 6
 
 ##### **1. Introduction**
 
-These Terms and Conditions ("Terms") govern your access to and use of [https://berndwurth.com](https://berndwurth.com) ("the Website"), operated by [Your Name] ("we," "I," or "my").
+These Terms and Conditions ("Terms") govern your access to and use of [https://berndwurth.com](https://berndwurth.com) ("the Website"), operated by Bernd Wurth ("we," "I," or "my").
 By accessing or using the Website, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not access the Website.
 
 ##### **2. Intellectual Property**
