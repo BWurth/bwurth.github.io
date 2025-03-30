@@ -33,6 +33,7 @@ The Website uses Google Analytics, which places cookies on your device to analyz
 Some pages on the Website include content from external providers, such as YouTube videos and social media widgets. These providers may set their own cookies on your device. I do not control these cookies and you should check the privacy policy of these third parties to find out more about their use of cookies.
 
 The Website uses widgets and tools including:
+
 - Google Scholar widget: May use cookies to display academic publications and citations.
 - Altmetric widget: May use cookies to show where published research is mentioned.
 - Dimensions widget: May use cookies to display academic citations.
