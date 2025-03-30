@@ -7,7 +7,7 @@ nav: false
 nav_order: 6
 ---
 
-#### **1. Introduction**
+##### **1. Introduction**
 
 This Cookie Policy explains how Bernd Wurth ("we," "I," or "my") uses cookies and similar technologies on [https://berndwurth.com](https://berndwurth.com) ("the Website"). This policy should be read alongside my Privacy Policy, which explains how I use personal information.
 
@@ -15,7 +15,7 @@ This Cookie Policy explains how Bernd Wurth ("we," "I," or "my") uses cookies an
 
 Cookies are small text files that are placed on your device when you visit a website. They are widely used to make websites work more efficiently and provide information to the website owners.
 
-#### **3. Types of Cookies Used**
+##### **3. Types of Cookies Used**
 
 I use the following types of cookies on the Website:
 
@@ -40,7 +40,7 @@ The Website uses widgets and tools including:
 - YouTube mmbeds: Sets cookies when you interact with embedded videos.
 - Social media widgets: Social media features may set cookies to enhance the experience.
 
-#### **4. Managing Cookies**
+##### **4. Managing Cookies**
 
 Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](www.aboutcookies.org) or [www.allaboutcookies.org](www.allaboutcookies.org).
 
@@ -56,10 +56,10 @@ Most web browsers allow some control of cookies through browser settings. To fin
 
 You can opt out of Google Analytics by installing the Google Analytics Opt-out Browser Add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
-#### **5. Changes to This Cookie Policy**
+##### **5. Changes to This Cookie Policy**
 
 I may update this Cookie Policy from time to time to reflect changes in technology, regulation, or my business practices. Any changes will be posted on this page with an updated "Last updated" date.
 
-#### **6. Contact Information**
+##### **6. Contact Information**
 
 If you have any questions about my use of cookies, please contact me at: [bernd.wurth@glasgow.ac.uk](bernd.wurth@glasgow.ac.uk).
