@@ -42,7 +42,7 @@ The Website uses widgets and tools including:
 
 ##### **4. Managing Cookies**
 
-Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](www.aboutcookies.org) or [www.allaboutcookies.org](www.allaboutcookies.org).
+Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [https://aboutcookies.org](https://aboutcookies.org) or [https://allaboutcookies.org](https://allaboutcookies.org).
 
 **4.1 How to Manage Cookies in Major Browsers**
 

@@ -104,7 +104,7 @@ The Website may include links to third-party websites, plug-ins, and application
 
 ##### **15. Complaints**
 
-If you have a complaint about my use of your information, you have the right to make a complaint to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](www.ico.org.uk)), or the data protection authority in your country of residence.
+If you have a complaint about my use of your information, you have the right to make a complaint to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([https://ico.org.uk](https://ico.org.uk)), or the data protection authority in your country of residence.
 However, I would appreciate the chance to deal with your concerns before you approach the ICO, so please contact me in the first instance.
 
 ##### **12. Changes to This Privacy Policy**
