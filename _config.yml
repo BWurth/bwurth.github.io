@@ -51,6 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
+bib_search: true
 
 # Dimensions
 max_width: 930px
@@ -130,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Insights & Updates # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_description: A collection of long-form insights from my work and professional updates.
+permalink: /posts/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
