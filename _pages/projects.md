@@ -2,10 +2,10 @@
 layout: page
 title: Work
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A curated overview of my academic work and entrepreneurial impact.
 nav: true
 nav_order: 3
-display_categories: [research, impact]
+display_categories: [Research, Impact]
 horizontal: false
 ---
 
