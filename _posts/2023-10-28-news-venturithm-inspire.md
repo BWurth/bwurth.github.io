@@ -11,7 +11,7 @@ Venturithm Ltd is proud to announce its acceptance into the <a href="https://www
 
 This opportunity marks an exciting reunion with the University of Strathclyde, where I received my doctoral degreee and was a lecturer at the Hunter Centre for Entrepreneurship.
 
-> "Joining the Inspire Accelerator is a full-circle moment for me. I have a deep personal connection to this institution, having been a PhD student and faculty member here. I am excited to build on that experience, coupled with fresh perspectives, and work with the team on taking Venturithm to the next level." 
+> "Joining the Inspire Accelerator is a full-circle moment for me. I have a deep personal connection to this institution, having been a PhD student and faculty member here. I am excited to build on that experience, coupled with fresh perspectives, and work with the team on taking Venturithm to the next level."
 > —Bernd Wurth
 
 <hr>
