@@ -1,54 +1,52 @@
 ---
 layout: post
-title: INSIGHT Seeing the Forest and the Trees - A Systems Approach to Entrepreneurial Universities
+title: INSIGHT - A Systems Approach to Entrepreneurial Universities
 date: 2024-01-23 12:00:00
 description: Read more about our new paper published in Small Business Economics.
 tags: Publication
-categories: Insight
+categories: Insights
 related_posts: false
 related_publications: true
-citation: true
+citation: false
 ---
 
 _This blog post is based on research published in our paper "Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University " {% cite wurmachow24 %}._
 
 <hr>
 
-# Introduction: Missing the Forest for the Trees
+## Introduction: Missing the Forest for the Trees
 
 In recent years, universities have been increasingly expected to contribute to economic development beyond their traditional missions of teaching and research. This has given rise to what we call the "entrepreneurial university" – institutions that engage in a wide range of activities from technology licensing and spin-offs to collaborative research and consulting with industry partners.
 
 As academics, we've studied these entrepreneurial activities extensively. Yet something has been missing in our approach. We've largely focused on individual activities, specific institutions, or isolated case studies – effectively examining the trees while missing the forest. In our recent paper "Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University," my colleagues Niall MacKenzie, Susan Howick, and I argue that we need a more holistic understanding of entrepreneurial universities that captures their inherent complexity and interconnectedness.
 
-# The Problem with Current Research
+## The Problem with Current Research
 
 The current academic literature suffers from three key limitations:
 
-<ul>
-    <li>**Isolated focus:** Studies typically examine single activities (like licensing or spin-offs) without considering how they interact with other activities within the university.</li>
-    <li>**De-contextualization:** Research often fails to consider the broader ecosystem in which universities operate, treating them as isolated entities rather than parts of a larger system.</li>
-    <li>**Static perspective:** Most studies provide snapshot views rather than examining the dynamic evolution of entrepreneurial universities over time.</li>
-</ul>
+- **Isolated focus:** Studies typically examine single activities (like licensing or spin-offs) without considering how they interact with other activities within the university.
+- **De-contextualization:** Research often fails to consider the broader ecosystem in which universities operate, treating them as isolated entities rather than parts of a larger system.
+- **Static perspective:** Most studies provide snapshot views rather than examining the dynamic evolution of entrepreneurial universities over time.
 
 The result is a fragmented understanding – what we refer to as "unit theories" of constituent parts without considering the wider feedback effects and implications. We're looking at individual trees but missing how they form a complex, interconnected forest.
 
-# A Systems Thinking Approach
+## A Systems Thinking Approach
 
 To address these limitations, we've developed what we call a "programmatic theory" of entrepreneurial universities using a systems thinking approach. Rather than focusing on isolated components, we're examining how different activities, capabilities, and contextual factors interact and influence each other over time.
 
 Our research combines qualitative interviews with technology transfer office directors and staff from seven Scottish universities with quantitative data from various national surveys on university-industry interactions. We've synthesized these insights using causal loop diagrams (CLDs) – a tool from system dynamics that visualizes the interconnections and feedback loops within complex systems.
 
-The Entrepreneurial University as a System of Feedback Loops
+## The Entrepreneurial University as a System of Feedback Loops
 
 So what does this systems perspective reveal? Let me walk you through some key insights from our model.
 
-## Research and Commercialization Dynamics
+### Research and Commercialization Dynamics
 
 At the heart of our model is the relationship between research activities and commercialization. Universities conduct research, which can lead to discoveries and inventions. These may be disclosed to technology transfer offices, potentially leading to patents, licenses, and spin-off companies. The income generated from these activities is often reinvested into further research, creating a reinforcing loop.
 
 However, this is just the beginning. Our research shows that commercialization processes are far more complex than the linear models traditionally depicted in the literature. For instance, we found that only about a third of university spin-offs are based on disclosed and patented inventions. Many are created directly by academics without going through formal technology transfer mechanisms.
 
-## Entrepreneurial Academics as Key Agents
+### Entrepreneurial Academics as Key Agents
 
 Our interviews revealed that most entrepreneurial activities involve a relatively small number of "entrepreneurial academics" – faculty members who actively seek opportunities to engage with industry partners. These individuals are crucial bridges between the university and external organizations.
 
@@ -59,7 +57,7 @@ Universities don't operate in isolation – they're embedded in ecosystems with 
 
 Companies typically follow a two-step decision process: first identifying a need for external input, then choosing their preferred academic partner. Research excellence attracts industry attention, but previous successful collaborations build entrepreneurial reputation, creating reinforcing loops that can accelerate future engagement.
 
-## Supply and Demand Stimulation
+### Supply and Demand Stimulation
 
 Universities can grow their entrepreneurial activities through two main levers: internal supply stimulation and external demand stimulation.
 
@@ -67,25 +65,25 @@ Internal stimulation involves increasing the number of entrepreneurial academics
 
 Importantly, our research shows that universities must balance both approaches. Focusing on one at the expense of the other merely shifts the bottleneck rather than enabling sustainable growth.
 
-# Practical Implications: Lessons for Universities and Policymakers
+## Practical Implications: Lessons for Universities and Policymakers
 
 What does this systems perspective mean for university leaders and policymakers? Here are some key takeaways:
 
-## For University Leaders:
+### For University Leaders:
 
 1. **Recognize trade-offs:** Increasing entrepreneurial activities without a balanced approach risks undermining other university missions. Our model helps visualize these potential trade-offs.
 2. **Develop dynamic capabilities:** Universities need capabilities that allow them to sense changes in the environment and adapt accordingly. These go beyond static resources to include organizational learning and flexibility.
 3. **Cultivate partnerships, not just transactions:** Long-term relationships with industry partners yield more value than one-off interactions. Universities should transition from a contractor mindset (offering "knowledge on a market basis") to a partnership approach.
 4. **Balance supply and demand stimulation:** Growing entrepreneurial activities requires both increasing internal capacity and generating external demand. Focusing on just one creates bottlenecks.
 
-## For Policymakers:
+### For Policymakers:
 
 1. **Look beyond commercialization:** Policy support should extend beyond narrow metrics like patents and licenses to encompass the broader range of entrepreneurial activities.
 2. **Support capacity building:** Effective policies must help universities develop the capabilities to manage complex entrepreneurial activities while maintaining excellence in teaching and research.
 3. **Treat university engagement as a "commons":** When universities actively engage with external organizations, they benefit the entire higher education sector by demonstrating the value of academic collaboration.
 4. **Consider systemic impacts:** Our model helps policymakers anticipate how interventions might affect different parts of the system, potentially revealing unintended consequences.
 
-# The Value of Systems Thinking in Practice
+## The Value of Systems Thinking in Practice
 
 Let me illustrate the practical value of this approach with an example from our research. One university we studied wanted to increase its industry engagement. Initial discussions focused on marketing and promotion strategies to attract more companies. However, our systems analysis revealed that entrepreneurial academics were already at full capacity.
 
@@ -93,7 +91,7 @@ Without addressing this internal constraint, additional marketing would have cre
 
 This example highlights why seeing both the forest and the trees matters. Understanding individual components (trees) is necessary but insufficient. We must also grasp how they interact within the broader system (forest).
 
-# Future Research Directions
+## Future Research Directions
 
 Our work opens several promising avenues for future research:
 
@@ -102,7 +100,7 @@ Our work opens several promising avenues for future research:
 3. **Contextual variations:** How do entrepreneurial university dynamics differ across geographic and institutional contexts?
 4. **Teaching-entrepreneurship connections:** Future research should explore how teaching contributes to entrepreneurial universities, particularly in developing skills and entrepreneurial mindsets among graduates.
 
-# Conclusion: Embracing Complexity
+## Conclusion: Embracing Complexity
 
 In conclusion, understanding entrepreneurial universities requires embracing complexity rather than avoiding it. Our systems approach offers a more holistic perspective that reconciles existing "unit theories" into a coherent programmatic theory.
 
