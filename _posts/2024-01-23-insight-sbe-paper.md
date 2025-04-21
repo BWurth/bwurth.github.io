@@ -1,8 +1,8 @@
 ---
 layout: post
-title: INSIGHT: 
+title: INSIGHT Seeing the Forest and the Trees - A Systems Approach to Entrepreneurial Universities
 date: 2024-01-23 12:00:00
-description: We are grateful for the support that will accelerate our product development and go-to-market.
+description: Read more about our new paper published in Small Business Economics.
 tags: Publication
 categories: Insight
 related_posts: false
