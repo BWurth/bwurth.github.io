@@ -5,6 +5,9 @@ date: 2023-10-28 12:00:00
 description: We are grateful for the support that will accelerate our product development and go-to-market.
 tags: Venturithm
 categories: News
+related_posts: false
+related_publications: false
+citation: false
 ---
 
 Venturithm Ltd is proud to announce its acceptance into the <a href="https://www.strath.ac.uk/workwithus/strathclydeinspire/">University of Strathclyde Inspire</a> accelerator programme.
