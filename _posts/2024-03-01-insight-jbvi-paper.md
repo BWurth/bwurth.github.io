@@ -112,25 +112,6 @@ After all, when it comes to understanding complex social systems, a picture real
 
 _Below are the complete graphical illustrations (two per workshop) from which the excerpts for the paper were taken._
 
-<a href={{ '/assets/img/scottish_ee_illustrations/week_01-01.jpg' | relative_url }}" download="Workshop 1 - Illustration 1.jpg">Download Workshop 1 - Illustration 1</a>
-<br>
-<a href="assets/img/scottish_ee_illustrations/week_01-02.jpg" download="Workshop 1 - Illustration 2.jpg">Download Workshop 1 - Illustration 2</a>
-<br>
-<a href="assets/img/scottish_ee_illustrations/week_02-01.jpg" download="Workshop 2 - Illustration 1.jpg">Download Workshop 2 - Illustration 1</a>
-<br>
-<a href="assets/img/scottish_ee_illustrations/week_02-02.jpg" download="Workshop 2 - Illustration 2.jpg">Download Workshop 2 - Illustration 2</a>
-<br>
-<a href="assets/img/scottish_ee_illustrations/week_03-01.jpg" download="Workshop 3 - Illustration 1.jpg">Download Workshop 3 - Illustration 1</a>
-<br>
-<a href="assets/img/scottish_ee_illustrations/week_03-02.jpg" download="Workshop 3 - Illustration 2.jpg">Download Workshop 3 - Illustration 2</a>
-<br>
-<a href="assets/img/scottish_ee_illustrations/week_04-01.jpg" download="Workshop 4 - Illustration 1.jpg">Download Workshop 4 - Illustration 1</a>
-<br>
-<a href="assets/img/scottish_ee_illustrations/week_04-02.jpg" download="Workshop 4 - Illustration 2.jpg">Download Workshop 4 - Illustration 2</a>
-<br>
-
-This is a simple image slider.
-
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_01-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_01-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
@@ -141,3 +122,22 @@ This is a simple image slider.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_04-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_04-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
+
+_You can also download the high-resolution version of each illustration here:_
+
+<a href={/assets/img/scottish_ee_illustrations/week_01-01.jpg}" download="Workshop 1 - Illustration 1.jpg">Download Workshop 1 - Illustration 1</a>
+<br>
+<a href="/assets/img/scottish_ee_illustrations/week_01-02.jpg" download="Workshop 1 - Illustration 2.jpg">Download Workshop 1 - Illustration 2</a>
+<br>
+<a href="/assets/img/scottish_ee_illustrations/week_02-01.jpg" download="Workshop 2 - Illustration 1.jpg">Download Workshop 2 - Illustration 1</a>
+<br>
+<a href="/assets/img/scottish_ee_illustrations/week_02-02.jpg" download="Workshop 2 - Illustration 2.jpg">Download Workshop 2 - Illustration 2</a>
+<br>
+<a href="/assets/img/scottish_ee_illustrations/week_03-01.jpg" download="Workshop 3 - Illustration 1.jpg">Download Workshop 3 - Illustration 1</a>
+<br>
+<a href="/assets/img/scottish_ee_illustrations/week_03-02.jpg" download="Workshop 3 - Illustration 2.jpg">Download Workshop 3 - Illustration 2</a>
+<br>
+<a href="/assets/img/scottish_ee_illustrations/week_04-01.jpg" download="Workshop 4 - Illustration 1.jpg">Download Workshop 4 - Illustration 1</a>
+<br>
+<a href="/assets/img/scottish_ee_illustrations/week_04-02.jpg" download="Workshop 4 - Illustration 2.jpg">Download Workshop 4 - Illustration 2</a>
+<br>

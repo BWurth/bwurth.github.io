@@ -71,7 +71,7 @@ Importantly, our research shows that universities must balance both approaches. 
     </div>
 </div>
 <div class="caption">
-    Complete causal-loop-diagram (CLD) with references to the aggregate themes from the interviews overlaid: ‘entrepreneurial academics’ (I), ‘supply stimulation’ (II), ‘resource allocation according to university strategy’ (III), ‘reputation’ (IV), ‘partnerships’ (V), and ‘demand stimulation’ (VI). {% cite wurmachow24 %}.
+    Complete causal-loop-diagram (CLD) with references to the aggregate themes from the interviews overlaid: ‘entrepreneurial academics’ (green), ‘supply stimulation’ (brown), ‘resource allocation according to university strategy’ (yellow), ‘reputation’ (orange), ‘partnerships’ (blue), and ‘demand stimulation’ (purple). {% cite wurmachow24 %}.
 </div>
 
 ## Practical Implications: Lessons for Universities and Policymakers
