@@ -28,6 +28,15 @@ Before diving into our findings, let's set the stage by understanding the fundam
 
 Think of it like trying to navigate a city without a map. Each person might know their immediate neighborhood well, but without a shared understanding of how these neighborhoods connect and relate to each other, movement and coordination become incredibly difficult. This is the challenge facing entrepreneurial ecosystems: how do we help diverse actors develop shared mental maps of their complex social environment?
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23_institutions_actors" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Ecosystems, institutions, and the role of different actors {% cite wurmaw24 %}.
+</div>
+
 ## Beyond Verbal Communication: The Role of Visual Imagery
 
 Our research draws on the framework of communicative institutionalism, which suggests that institutions (the "rules of the game" that shape behavior) aren't just reflected in communication - they're actively created through it. While previous research has focused primarily on verbal communication - conversations, narratives, and stories - we discovered that visual imagery plays a crucial, and largely overlooked, role in this process.
@@ -44,6 +53,18 @@ For example, when participants began discussing who constitutes the entrepreneur
 
 This visual representation did more than just record an unusual suggestion - it legitimized it, made it tangible, and prompted deeper reflection from other participants. The image sparked discussions about inclusivity, overlooked potential, and the true boundaries of the ecosystem. By workshop three, the question had evolved from "who is part of the ecosystem?" to deeper considerations of belonging, voice, and creating environments where diverse actors can thrive.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23-crop_inclusivity_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23-crop_inclusivity_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Inclusivity and (informal) institutions in entrepreneurial ecosystems {% cite wurmaw24 %}.
+</div>
+
 ### 2. Stimulating Metaphorical Associations
 
 Visuals also proved remarkably effective at creating and sustaining powerful metaphors that helped participants grasp complex concepts. Two metaphors in particular demonstrated this power:
@@ -52,7 +73,7 @@ First, the concept of nested ecosystems - local systems within regional systems 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23-crop_nestedness.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23_crop_nestedness.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -60,6 +81,18 @@ First, the concept of nested ecosystems - local systems within regional systems 
 </div>
 
 Second, the unicorn metaphor evolved throughout the workshops. Starting as the standard reference to billion-dollar startups, the visual representation transformed this into something deeper - a symbol of Scotland's broader ambitions that integrated cultural narratives (the unicorn is Scotland's national animal) with entrepreneurial aspirations. The continuous visual refinement of this metaphor helped participants move beyond simplistic success metrics toward more nuanced understandings of ecosystem goals.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23-crop_unicorn_1.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23-crop_unicorn_2.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The unicorn depicted in various visual images, reflecting both Scotland and the ambition of entrepreneurship {% cite wurmaw24 %}.
+</div>
 
 ### 3. Facilitating Alignment on Shared Meanings
 
@@ -95,6 +128,15 @@ As we look to the future of entrepreneurial ecosystem development, our research 
 
 The power of visual imagery lies not just in its ability to represent complex ideas, but in its capacity to transform how we think and interact. When we draw together, we think together. When we see our ideas visualized, we see new possibilities. And when we create shared visual languages, we create the foundation for genuine collaborative action.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23_crop_understanding_impact.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A graphical representation of going from understanding EEs to thinking about collective, purposeful impact {% cite wurmaw24 %}.
+</div>
+
 ## Conclusion: Drawing Our Way to Better Ecosystems
 
 Our research reveals that developing effective entrepreneurial ecosystems requires more than words - it requires ways of seeing and making sense together that transcend verbal communication. Visual imagery, when thoughtfully integrated into ecosystem conversations, can:
@@ -125,7 +167,7 @@ _Below are the complete graphical illustrations (two per workshop) from which th
 
 _You can also download the high-resolution version of each illustration here:_
 
-<a href={/assets/img/scottish_ee_illustrations/week_01-01.jpg}" download="Workshop 1 - Illustration 1.jpg">Download Workshop 1 - Illustration 1</a>
+<a href="/assets/img/scottish_ee_illustrations/week_01-01.jpg" download="Workshop 1 - Illustration 1.jpg">Download Workshop 1 - Illustration 1</a>
 <br>
 <a href="/assets/img/scottish_ee_illustrations/week_01-02.jpg" download="Workshop 1 - Illustration 2.jpg">Download Workshop 1 - Illustration 2</a>
 <br>
