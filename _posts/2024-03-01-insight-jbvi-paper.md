@@ -10,7 +10,6 @@ related_publications: true
 citation: false
 images:
   slider: true
-  photoswipe: true
 ---
 
 _This blog post is based on research published in our paper "Beyond Words: How Visual Imagery Shapes Collaborative Sensemaking in Entrepreneurial Ecosystems" {% cite wurmaw24 %}. The workshops that formed the basis for this paper were funded by the Scottish Government under the Scottish Tech Ecosystem Fund and through in-kind support from the University of Strathclyde._
@@ -116,19 +115,19 @@ _Below are the complete graphical illustrations (two per workshop) from which th
 <a href="assets/img/scottish_ee_illustrations/week_01-01.jpg" download="Workshop 1 - Illustration 1.jpg">Download Workshop 1 - Illustration 1</a>
 <br>
 <a href="assets/img/scottish_ee_illustrations/week_01-02.jpg" download="Workshop 1 - Illustration 2.jpg">Download Workshop 1 - Illustration 2</a>
-<br> 
+<br>
 <a href="assets/img/scottish_ee_illustrations/week_02-01.jpg" download="Workshop 2 - Illustration 1.jpg">Download Workshop 2 - Illustration 1</a>
 <br>
 <a href="assets/img/scottish_ee_illustrations/week_02-02.jpg" download="Workshop 2 - Illustration 2.jpg">Download Workshop 2 - Illustration 2</a>
-<br> 
+<br>
 <a href="assets/img/scottish_ee_illustrations/week_03-01.jpg" download="Workshop 3 - Illustration 1.jpg">Download Workshop 3 - Illustration 1</a>
 <br>
 <a href="assets/img/scottish_ee_illustrations/week_03-02.jpg" download="Workshop 3 - Illustration 2.jpg">Download Workshop 3 - Illustration 2</a>
-<br> 
+<br>
 <a href="assets/img/scottish_ee_illustrations/week_04-01.jpg" download="Workshop 4 - Illustration 1.jpg">Download Workshop 4 - Illustration 1</a>
 <br>
 <a href="assets/img/scottish_ee_illustrations/week_04-02.jpg" download="Workshop 4 - Illustration 2.jpg">Download Workshop 4 - Illustration 2</a>
-<br> 
+<br>
 
 This is a simple image slider.
 
@@ -142,22 +141,3 @@ This is a simple image slider.
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_04-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_04-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>
-
-This is PhotoSwipe.
-
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="assets/img/scottish_ee_illustrations/week_01-01.jpg"
-    data-pswp-width="1669"
-    data-pswp-height="2500"
-    target="_blank">
-    <img src="assets/img/scottish_ee_illustrations/week_01-01.jpg" alt="" />
-  </a>
-  <!-- cropped thumbnail: -->
-  <a href="assets/img/scottish_ee_illustrations/week_01-01.jpg"
-    data-pswp-width="1875"
-    data-pswp-height="2500"
-    data-cropped="true"
-    target="_blank">
-    <img src="assets/img/scottish_ee_illustrations/week_01-01.jpg" alt="" />
-  </a>
-</div>
