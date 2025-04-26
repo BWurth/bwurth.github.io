@@ -12,7 +12,7 @@ images:
   slider: true
 ---
 
-_This blog post is based on research published in our paper "Beyond Words: How Visual Imagery Shapes Collaborative Sensemaking in Entrepreneurial Ecosystems" {% cite wurmaw24 %}. The workshops that formed the basis for this paper were funded by the Scottish Government under the Scottish Tech Ecosystem Fund and through in-kind support from the University of Strathclyde._
+_This post is based on research published in our paper "Beyond Words: How Visual Imagery Shapes Collaborative Sensemaking in Entrepreneurial Ecosystems" {% cite wurmaw24 %}. The workshops that formed the basis for this paper were funded by the Scottish Government under the Scottish Tech Ecosystem Fund and in-kind support from the University of Strathclyde._
 
 <hr>
 
@@ -52,7 +52,7 @@ First, the concept of nested ecosystems - local systems within regional systems 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/crop_nestedness.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23-crop_nestedness.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -73,21 +73,21 @@ Our findings have significant implications for how we approach ecosystem develop
 
 ### For Ecosystem Builders and Policymakers:
 
-1. **Incorporate Visual Practice:** When organizing ecosystem events, workshops, or strategic planning sessions, consider incorporating professional graphic illustration or other visual methods. These aren't just nice-to-have documentation tools - they're active ingredients in fostering collaborative sensemaking.
+1. **Incorporate visual practice:** When organizing ecosystem events, workshops, or strategic planning sessions, consider incorporating professional graphic illustration or other visual methods. These aren't just nice-to-have documentation tools - they're active ingredients in fostering collaborative sensemaking.
 
-2. **Create Sustained Platforms:** One-off events have limited impact. Create platforms that allow for iterative visual sensemaking over time, enabling narratives and understandings to evolve rather than crystallize prematurely.
+2. **Create sustained platforms:** One-off events have limited impact. Create platforms that allow for iterative visual sensemaking over time, enabling narratives and understandings to evolve rather than crystallize prematurely.
 
-3. **Leverage Visual Ambiguity:** Don't aim for perfect clarity in visual representations. Some ambiguity can be generative, prompting deeper exploration and allowing multiple interpretations to coexist productively.
+3. **Leverage visual ambiguity:** Don't aim for perfect clarity in visual representations. Some ambiguity can be generative, prompting deeper exploration and allowing multiple interpretations to coexist productively.
 
-4. **Bridge Perspectives:** Use visuals as boundary objects to help different ecosystem actors understand each other's perspectives. Visual representations can make tacit assumptions explicit and create common ground for dialogue.
+4. **Bridge perspectives:** Use visuals as boundary objects to help different ecosystem actors understand each other's perspectives. Visual representations can make tacit assumptions explicit and create common ground for dialogue.
 
 ### For Researchers:
 
-1. **Expand Methods:** Consider how visual methods can complement traditional verbal data collection and analysis in studying entrepreneurial ecosystems and other complex social phenomena.
+1. **Expand methods:** Consider how visual methods can complement traditional verbal data collection and analysis in studying entrepreneurial ecosystems and other complex social phenomena.
 
-2. **Study Visual Processes:** Focus not just on the final visual artifacts but on the process of their creation and evolution. How do visuals emerge from and shape conversations over time?
+2. **Study visual processes:** Focus not just on the final visual artifacts but on the process of their creation and evolution. How do visuals emerge from and shape conversations over time?
 
-3. **Connect to Practice Theory:** Explore how visual practices become embedded in ecosystem routines and how they contribute to the embodiment of institutional logics.
+3. **Connect to practice theory:** Explore how visual practices become embedded in ecosystem routines and how they contribute to the embodiment of institutional logics.
 
 ## The Future of Ecosystem Development: Seeing and Shaping Together
 
@@ -99,10 +99,10 @@ The power of visual imagery lies not just in its ability to represent complex id
 
 Our research reveals that developing effective entrepreneurial ecosystems requires more than words - it requires ways of seeing and making sense together that transcend verbal communication. Visual imagery, when thoughtfully integrated into ecosystem conversations, can:
 
-- Surface and legitimize diverse perspectives
-- Create powerful, persistent metaphors for complex concepts
-- Facilitate alignment on shared meanings
-- Enable exploration of "distant futures" and alternative possibilities
+- surface and legitimize diverse perspectives,
+- create powerful, persistent metaphors for complex concepts,
+- facilitate alignment on shared meanings, and
+- enable exploration of "distant futures" and alternative possibilities.
 
 As we continue to grapple with the complexity of entrepreneurial ecosystems, let's remember that sometimes the most powerful conversations happen not just through what we say, but through what we draw, imagine, and visualize together. In the end, building better ecosystems might just require us to become better at seeing - and helping others see - the bigger picture.
 
@@ -112,7 +112,7 @@ After all, when it comes to understanding complex social systems, a picture real
 
 _Below are the complete graphical illustrations (two per workshop) from which the excerpts for the paper were taken._
 
-<a href="assets/img/scottish_ee_illustrations/week_01-01.jpg" download="Workshop 1 - Illustration 1.jpg">Download Workshop 1 - Illustration 1</a>
+<a href={{ '/assets/img/scottish_ee_illustrations/week_01-01.jpg' | relative_url }}" download="Workshop 1 - Illustration 1.jpg">Download Workshop 1 - Illustration 1</a>
 <br>
 <a href="assets/img/scottish_ee_illustrations/week_01-02.jpg" download="Workshop 1 - Illustration 2.jpg">Download Workshop 1 - Illustration 2</a>
 <br>
@@ -133,11 +133,11 @@ This is a simple image slider.
 
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_01-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_01-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_02-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_02-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_03-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_03-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_04-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/cottish_ee_illustrations/week_04-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_01-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_02-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_02-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_03-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_03-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_04-01.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/scottish_ee_illustrations/week_04-02.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
 </swiper-container>

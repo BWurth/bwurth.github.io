@@ -10,7 +10,7 @@ related_publications: true
 citation: false
 ---
 
-_This blog post is based on research published in our paper "Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University" {% cite wurmachow24 %}._
+_This post is based on research published in our paper "Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University" {% cite wurmachow24 %}._
 
 <hr>
 
@@ -64,6 +64,15 @@ Universities can grow their entrepreneurial activities through two main levers: 
 Internal stimulation involves increasing the number of entrepreneurial academics through incentives, skill development, and strategic hiring. External stimulation includes proactively engaging with industry, demonstrating expertise, and building relationships.
 
 Importantly, our research shows that universities must balance both approaches. Focusing on one at the expense of the other merely shifts the bottleneck rather than enabling sustainable growth.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-03-01-cld-highlighted.pdf" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Complete causal-loop-diagram (CLD) with references to the aggregate themes from the interviews overlaid: ‘entrepreneurial academics’ (I), ‘supply stimulation’ (II), ‘resource allocation according to university strategy’ (III), ‘reputation’ (IV), ‘partnerships’ (V), and ‘demand stimulation’ (VI). {% cite wurmachow24 %}.
+</div>
 
 ## Practical Implications: Lessons for Universities and Policymakers
 
