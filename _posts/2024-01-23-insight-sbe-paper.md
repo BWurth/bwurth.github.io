@@ -10,7 +10,7 @@ related_publications: true
 citation: false
 ---
 
-_This blog post is based on research published in our paper "Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University " {% cite wurmachow24 %}._
+_This blog post is based on research published in our paper "Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University" {% cite wurmachow24 %}._
 
 <hr>
 
@@ -18,7 +18,7 @@ _This blog post is based on research published in our paper "Not Seeing the Fore
 
 In recent years, universities have been increasingly expected to contribute to economic development beyond their traditional missions of teaching and research. This has given rise to what we call the "entrepreneurial university" – institutions that engage in a wide range of activities from technology licensing and spin-offs to collaborative research and consulting with industry partners.
 
-As academics, we've studied these entrepreneurial activities extensively. Yet something has been missing in our approach. We've largely focused on individual activities, specific institutions, or isolated case studies – effectively examining the trees while missing the forest. In our recent paper "Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University," my colleagues Niall MacKenzie, Susan Howick, and I argue that we need a more holistic understanding of entrepreneurial universities that captures their inherent complexity and interconnectedness.
+As academics, we've studied these entrepreneurial activities extensively. Yet something has been missing in our approach. We've largely focused on individual activities, specific institutions, or isolated case studies – effectively examining the trees while missing the forest. In our recent paper _"Not Seeing the Forest for the Trees? A Systems Approach to the Entrepreneurial University,"_ my colleagues Niall MacKenzie, Susan Howick, and I argue that we need a more holistic understanding of entrepreneurial universities that captures their inherent complexity and interconnectedness.
 
 ## The Problem with Current Research
 
