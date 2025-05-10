@@ -1,7 +1,7 @@
 ---
 layout: post
 title: INSIGHT - A Policy View on the Future of Entrepreneurial Ecosystem Research
-date: 2024-05-01 12:00:00
+date: 2025-05-01 12:00:00
 description: Read more about our new paper published in the Journal of Business Venturing Insights.
 tags: Publication
 categories: Insights
