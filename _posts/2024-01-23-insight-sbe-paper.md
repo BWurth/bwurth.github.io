@@ -66,8 +66,8 @@ Internal stimulation involves increasing the number of entrepreneurial academics
 Importantly, our research shows that universities must balance both approaches. Focusing on one at the expense of the other merely shifts the bottleneck rather than enabling sustainable growth.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/2024-03-01_cld_highlighted.pdf" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0 mx-auto">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2024-03-01_cld_highlighted.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

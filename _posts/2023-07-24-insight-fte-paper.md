@@ -27,8 +27,8 @@ Since then, the field has continued to evolve rapidly. Our recent monograph, "En
 One of our core contributions is the development and refinement of a conceptual framework that identifies five key mechanisms explaining how entrepreneurial ecosystems work.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/2021-03-22_mechanisms.pdf" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0 mx-auto">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2021-03-22_mechanisms.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

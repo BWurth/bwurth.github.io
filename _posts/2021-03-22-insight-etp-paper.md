@@ -39,8 +39,8 @@ But despite these promising theoretical foundations, ecosystem research faces se
 One of our key contributions is synthesizing the empirical evidence on the causal mechanisms that drive entrepreneurial ecosystems. Based on our review of the literature, we identified five key causal mechanisms.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/2021-03-22_mechanisms.pdf" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0 mx-auto">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2021-03-22_mechanisms.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -86,8 +86,8 @@ Contrary to how they're often portrayed, entrepreneurial ecosystems aren't stati
 Based on our synthesis of the literature, we propose a comprehensive research program to advance our understanding of entrepreneurial ecosystems. This program consists of four main research streams and four cross-cutting themes.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/2021-03-22_research_program.pdf" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0 mx-auto">
+        {% include figure.liquid loading="eager" path="assets/img/posts/2021-03-22_research_program.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -29,7 +29,7 @@ Before diving into our findings, let's set the stage by understanding the fundam
 Think of it like trying to navigate a city without a map. Each person might know their immediate neighborhood well, but without a shared understanding of how these neighborhoods connect and relate to each other, movement and coordination become incredibly difficult. This is the challenge facing entrepreneurial ecosystems: how do we help diverse actors develop shared mental maps of their complex social environment?
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0 mx-auto">
         {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23_institutions_actors.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -72,7 +72,7 @@ Visuals also proved remarkably effective at creating and sustaining powerful met
 First, the concept of nested ecosystems - local systems within regional systems within national systems - was visualized using the metaphor of Russian Matryoshka dolls. This simple visual captured a complex idea about multi-level dynamics in a way that participants could immediately grasp and reference. More importantly, this metaphor became a shared reference point that persisted across workshops, helping new participants quickly understand previous discussions.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0 mx-auto">
         {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23_crop_nestedness.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -129,7 +129,7 @@ As we look to the future of entrepreneurial ecosystem development, our research 
 The power of visual imagery lies not just in its ability to represent complex ideas, but in its capacity to transform how we think and interact. When we draw together, we think together. When we see our ideas visualized, we see new possibilities. And when we create shared visual languages, we create the foundation for genuine collaborative action.
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-8 col-md-6 mt-3 mt-md-0 mx-auto">
         {% include figure.liquid loading="eager" path="assets/img/posts/2024-01-23_crop_understanding_impact.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
