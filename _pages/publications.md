@@ -9,9 +9,15 @@ nav_order: 4
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
+
+## Working Papers / Work in Progress
+
+<div class="publications">
+{% bibliography -f working_papers --group_by none --template bib-wip --sort year --order descending %}
+</div>
+
+## Publications
 
 <div class="publications">
 

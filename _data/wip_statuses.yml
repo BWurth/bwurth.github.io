@@ -1,0 +1,11 @@
+working_paper:
+  label: Working Paper
+  color: "#5c6bc0"
+
+under_review:
+  label: Under Review
+  color: "#ef6c00"
+
+work_in_progress:
+  label: Work in Progress
+  color: "#78909c"
