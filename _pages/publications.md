@@ -14,7 +14,9 @@ nav_order: 4
 ## Working Papers / Work in Progress
 
 <div class="publications wip-section">
-{% bibliography -f working_papers --group_by none --template bib-wip --sort year --order descending %}
+{% bibliography -f working_papers --group_by none --template bib-wip --query @*[status=under_review]* --sort year --order descending %}
+{% bibliography -f working_papers --group_by none --template bib-wip --query @*[status=working_paper]* --sort year --order descending %}
+{% bibliography -f working_papers --group_by none --template bib-wip --query @*[status=work_in_progress]* --sort year --order descending %}
 </div>
 
 ## Publications
