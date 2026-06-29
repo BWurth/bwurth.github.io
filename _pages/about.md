@@ -24,4 +24,4 @@ As a researcher, educator, and entrepreneur, I work at the intersection of compl
 
 Beyond academia, I’m the founder of [Venturithm](https://venturithm.com), a start-up developing simulation-based tools for entrepreneurs to make decisions with more confidence. I regularly collaborate with policy organisations such as the OECD and contribute to national and international initiatives that connect research, practice, and public policy. I’m also a co-founder of the Entrepreneurship Ecosystem Research Network.
 
-This site brings together my research, projects, writing, and tools. It’s work in progress —- feel free to explore, reach out, or get involved.
+This site brings together my research, projects, writing, and tools. It’s work in progress — feel free to explore, reach out, or get involved.
