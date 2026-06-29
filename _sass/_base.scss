@@ -231,6 +231,24 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.publications-header-bar {
+  margin-bottom: 2rem;
+
+  .post-description {
+    margin-bottom: 0;
+    flex: 1 1 16rem;
+    min-width: 0;
+  }
+
+  #bibsearch {
+    flex: 0 0 auto;
+    width: 14rem;
+    max-width: 100%;
+    margin-left: auto;
+    font-size: 0.875rem;
+  }
+}
+
 // Navbar customization
 
 .navbar {

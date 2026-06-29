@@ -4,7 +4,14 @@ layout: default
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-description">{{ page.description }}</p>
+    {% if page.bib_search_in_header and site.bib_search %}
+      <div class="publications-header-bar d-flex flex-wrap align-items-center justify-content-between gap-3">
+        <p class="post-description mb-0 flex-grow-1">{{ page.description }}</p>
+        {% include bib_search.liquid %}
+      </div>
+    {% elsif page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
   </header>
 
   <article>
