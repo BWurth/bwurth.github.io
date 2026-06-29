@@ -6,8 +6,7 @@
       {%- assign status_key = entry.status -%}
       {%- if site.data.wip_statuses[status_key] -%}
         {%- assign status_meta = site.data.wip_statuses[status_key] -%}
-        {%- assign status_style = status_meta.color | prepend: 'style="background-color:' | append: '"' -%}
-        <abbr class="badge rounded w-100 wip-status" {{ status_style }}>
+        <abbr class="badge rounded w-100 wip-status">
           <div>{{ status_meta.label }}</div>
         </abbr>
       {%- else -%}
@@ -102,14 +101,6 @@
       {%- endif -%}
     </div>
 
-    {%- if entry.year -%}
-      <div class="periodical">{{ entry.year }}</div>
-    {%- endif -%}
-
-    {%- if entry.note -%}
-      <div class="periodical">{{ entry.note | strip }}</div>
-    {%- endif -%}
-
     {%- if entry.additional_info -%}
       <div class="periodical">
         {{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -119,6 +110,9 @@
     <div class="links">
       {%- if entry.abstract -%}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      {%- endif -%}
+      {%- if entry.note -%}
+        <a class="note btn btn-sm z-depth-0" role="button">Note</a>
       {%- endif -%}
       {%- if entry.pdf -%}
         {%- if entry.pdf contains '://' -%}
@@ -156,6 +150,11 @@
     {%- if entry.abstract -%}
       <div class="abstract hidden">
         <p>{{ entry.abstract }}</p>
+      </div>
+    {%- endif -%}
+    {%- if entry.note -%}
+      <div class="note hidden">
+        <p>{{ entry.note | markdownify | remove: '<p>' | remove: '</p>' }}</p>
       </div>
     {%- endif -%}
   </div>
