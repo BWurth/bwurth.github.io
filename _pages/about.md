@@ -22,6 +22,6 @@ I’m a Senior Lecturer (Associate Professor) in Entrepreneurship and Complexity
 
 As a researcher, educator, and entrepreneur, I work at the intersection of complex systems and entrepreneurship. My research examines how innovation and entrepreneurial activity emerge, interact, and evolve, from individual decision-making to the dynamics of ecosystems. I use, and often combine, system dynamics and agent-based modelling to build simple (but often computationally intensive) models that help answer complex questions.
 
-Beyond academia, I’m the founder of [Venturithm](https://venturithm.com), a start-up developing simulation-based tools for entrepreneurs to make decisions with more confidence. I regularly collaborate with policy organisations such as the OECD and contribute to national and international initiatives that connect research, practice, and public policy. I’m also a co-founder of the [Entrepreneurship Ecosystem Research Network](https://eernetwork.org/).
+Beyond academia, I’m the founder of [Venturithm](https://venturithm.com), a start-up developing simulation-based tools for entrepreneurs to make decisions with more confidence. I regularly collaborate with policy organisations such as the OECD and contribute to national and international initiatives that connect research, practice, and public policy. I’m also a co-founder of the Entrepreneurship Ecosystem Research Network.
 
 This site brings together my research, projects, writing, and tools. It’s work in progress —- feel free to explore, reach out, or get involved.
