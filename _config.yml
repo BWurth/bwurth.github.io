@@ -15,7 +15,7 @@ footer_text: >
   <a href="/privacy-policy/">Privacy Policy</a>. <a href="/terms-conditions/">Terms & Conditions</a>. <a href="/cookie-policy/">Cookie Policy</a>.
 keywords: entrepreneurship, innovation, academic, ecosystem, simulation, complex systems, agent-based modeling, system dynamics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon-32x32.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://bwurth.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
