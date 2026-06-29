@@ -11,13 +11,9 @@ nav_order: 4
 
 {% include bib_search.liquid %}
 
-<div class="publications wip-section">
-{% bibliography -f working_papers --group_by none --template bib-wip --sort year --order descending %}
-</div>
-
 ## Working Papers / Work in Progress
 
-<div class="publications">
+<div class="publications wip-section">
 {% bibliography -f working_papers --group_by none --template bib-wip --sort year --order descending %}
 </div>
 
