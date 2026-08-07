@@ -1,0 +1,24 @@
+---
+layout: page
+title: Universities in Society
+description: with background image
+img: assets/img/4.jpg
+importance: 2
+category: Research
+related_publications: false
+---
+
+The role of universities in society has evolved and they are asked to do more than "just" teach and research. They are expected to drive innovation and sustainability, spin out companies, license technology, act as anchors for regional economies, and contribute to society through a broader set of means and activities. Universities pursuing this "third mission" are often referred to as "entrepreneurial universities." I study how universities play this role, but I do so with a deliberately multi-faceted and, where warranted, critical perspective. I take the value of knowledge exchange and commercialisation seriously, while also asking a harder question that much of the field skips over: are the mechanisms we have actually the right ones?
+
+The dominant way of studying entrepreneurial universities tends to be narrow, celebratory, and focused on discrete activities measured in isolation (e.g., there is a disproportional emphasis on patents, spin-outs, and licensing income compared to other meachnisms such as collaborative research). My central argument is that this misses the point. A university is not a collection of separable outputs but a **system** embedded in a wider ecosystem and society. Once you adopt that lens, the interesting phenomena are the ones that only appear at the level of the whole: the synergies, trade-offs, feedback loops, and unintended consequences that link a university's teaching, research, and external engagement missions. In work with colleagues I develop a systems theory of the entrepreneurial university built from causal maps, reconciling many isolated "unit theories" into one coherent picture and identifying where the real leverage points and the real tensions between missions sit. External engagement, in this view, is a means to an end, not an end in itself.
+
+The critical strand of this work questions how risk and reward are distributed when universities behave entrepreneurially. It is easy to celebrate spin-outs; it is harder to ask who bears the uncertainty and who captures the upside. Here, we distinguish carefully between innovation, venturing, and genuine entrepreneurship, and point to a pattern of **risk asymmetry**. Institutions can capture reputational, strategic, and financial value through IP claims, equity stakes, and impact narratives, while academics and thinly-resourced support units carry much of the career, time, and reputational downside. Debates over spin-out equity terms and the sizeable "grey market" of academics who bypass their own technology transfer offices are symptoms of the same underlying misalignment. My aim is not to be pro- or anti-commercialisation but to ask whether institutional arrangements actually match the entrepreneurial identity universities claim, and to move the conversation toward a fairer model of the **venturing university**.
+
+This is also why the work goes explicitly beyond individual activities. Rather than studying academic entrepreneurs one heroic story at a time, I model the *structures* they operate within, without denying their agency. That includes how reputation forms and transforms (entrepreneurial reputation is built from recent interactions and is far more malleable than slow-moving research prestige), and how "soft" knowledge exchange such as advice, collaboration, informal networks, lays the groundwork for the "hard" outcomes like spin-outs that policymakers tend to count. Increasingly I build these arguments into simulation models and data-driven "digital twins" of regional ecosystems, so that university leaders and policymakers can test scenarios before committing resources.
+
+## Insights for practice
+
+- **Fix the workload bottleneck.** The binding constraint is usually academics' time, not a lack of support services. Entrepreneurial activity has to be embedded in workload models, career progression, and recognition, otherwise the strategy risks becoming an exerxise on paper only.
+- **Align risk-bearing with reward.** Fairer equity and deal structures, earlier institutional commitment, and broader ways of valuing academic contribution move universities from extractive "venturing" toward genuine co-entrepreneurship.
+- **Look beyond commercialisation metrics.** Patents and spin-outs are late-stage, visible outputs. Supporting capacity- and network-building matters at least as much, especially for universities in less mature regional ecosystems.
+- **Invest above the threshold.** Reputational and engagement dynamics are self-reinforcing but only past a critical level of investment. Spreading resources too thinly yields little return; concentrated, sustained investment can tip the system.

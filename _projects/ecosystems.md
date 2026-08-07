@@ -1,0 +1,24 @@
+---
+layout: page
+title: How Ecosystems Work
+description: with background image
+img: assets/img/4.jpg
+importance: 1
+category: Research
+related_publications: false
+---
+
+Entrepreneurial ecosystems have become one of the most popular ideas in economic policy, yet they remain surprisingly under-theorised. Cities and regions everywhere want to build the next Silicon Valley, and the standard advice is to assemble a checklist of ingredients, including talent, capital, universities, support programmes, and a few (ideally local) role models, among others. My work starts from a different premise. An ecosystem is not a list of ingredients but a **complex adaptive system**, i.e. a web of interdependent people, organisations, and institutions whose collective behaviour emerges from their interactions and cannot be read off from any single part.
+
+That shift in framing changes the questions I ask. Instead of cataloguing *what* successful ecosystems contain, I study *how* they actually work: the causal mechanisms that turn local resources, relationships, and individual agency into productive entrepreneurship, and how those outcomes feed back to reshape the system that produced them. This is fundamentally a question about connecting different levels of aggregation. How do the choices and interactions of individual founders, investors, and institutions (the micro level) give rise to the patterns we observe at the level of a city or region (the macro level)? And how do those macro-level patterns, in turn, constrain and enable the individuals within them? Treating these micro–macro linkages seriously means taking emergence, feedback, and self-organisation as central rather than incidental.
+
+Three ideas recur throughout this work. The first is **multi-level causation**. The dynamics of entrepreneurial ecosystems are driven by interdependence between elements, by "upward" effects where local activity aggregates into regional outcomes, and by "downward" feedback where those outcomes change the conditions individuals face. The second is **emergence**: any kind of entrepreneurship is a property of the whole system, arising without any central controller (albeit some actors have more influence than others in some ecosystems), which is also why ecosystems can be resilient and resistant to top-down design. The third is a **critical, inclusive lens**. Ecosystems contain hidden power structures and informal gatekeeping and support structures that look neutral often are not. Inclusion, therefore, is both an input and an output of the system and contributes to its overall effectiveness.
+
+The complex-systems framing is also a practical tool for explaining things that puzzle conventional accounts, such as the inclusion paradox and issues around speed, momentum, and scaling. Why do some ventures reach milestones so much faster than others? In one strand of research we find that founder persistence accelerates progress while team diversity can initially delay it (a coordination cost that precedes the benefits), and that ecosystem access speeds up commercialisation but not hiring or funding. Speed itself becomes a matter of momentum: early wins trigger self-reinforcing cycles. I am now extending this thinking through a **metabolic** view of ecosystems, i.e. treating a city's capacity to convert knowledge, capital, talent, and relationships into scaled ventures as a kind of metabolic rate, governed by coupled fast dynamics (e.g., deals, pitches, networking) and slow dynamics (e.g., trust, norms, institutions), with tipping points and path dependence. Alongside empirical and theoretical work, I predominantly use modelling and simulation to make these mechanisms explicit and to run the "what-if" experiments that the real world will not allow.
+
+## Insights for practice
+
+- **Fund the invisible, not just the visible.** Trust, relationships, and network architecture are where resources actually flow. Over-investing in buildings and programmes while under-investing in connective tissue leaves you with empty real estate.
+- **Design for conversion, not inventory.** What matters is how efficiently an ecosystem turns inputs into outcomes, not how many assets it can list. Copying another region's checklist rarely reproduces its results.
+- **Expect non-linearity and delays.** Interventions have context-dependent, sometimes long-delayed effects. Look for tipping points and leverage points rather than trusting static league tables.
+- **Treat inclusion as efficiency, not charity.** Gatekeeping and homophily suppress an ecosystem's performance for everyone. The work of managing exclusion belongs at the system and programme level, not on the individuals it disadvantages.
